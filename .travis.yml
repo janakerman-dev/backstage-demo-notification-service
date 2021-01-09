@@ -1,0 +1,6 @@
+language: minimal
+jobs:
+  include:
+    - stage: test stage
+      script: echo "Testing"
+      
